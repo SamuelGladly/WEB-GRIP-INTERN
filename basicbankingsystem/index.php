@@ -119,15 +119,15 @@
         <div class="row">
             <div class="col" style="margin-left: 5%;">
                 <br><br>&nbsp;<p class="zoomfont"
-                    style="font-size:0px; text-shadow:3px 3px 3px grey; text-align:center;"><b>Welcome to <br> Sparks
+                    style="font-size:0px; text-shadow:3px 3px 3px grey; text-align:center;"><b>Welcome to <br> SAM$$Sparks
                         Bank!</b></p>
             </div>
             <div class="col" style="margin:4% 0% 0% 5%; text-align:center;">
-                &nbsp;<img src="statics/finance.png" class="zoomin" alt="" style="width:0px;">
+                &nbsp;<img src="statics/finance35.png" class="zoomin" alt="" style="width:0px;">
             </div>
         </div>
     </div>
-    <img src="statics/abstbg2.png" alt="" style="width:100%; position:absolute; z-index:-1">
+    <img src="statics/news1.jpg" alt="" style="width:100%; position:absolute; z-index:-1">
 
     <center style="margin:60px 0px 20px 0px;">
         <div class="container"

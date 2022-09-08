@@ -20,7 +20,7 @@
     <title>Contact us - Sparks Bank</title>
 </head>
 
-<body style="background-color:#212529;">
+<body style="background-color:#FFFF00;">
     <?php include 'spin.php'; ?>
 
     <style>
@@ -81,7 +81,7 @@
 
         <div class="container" style="margin-top: 10%; padding:10px 80px 10px 80px; ">
             <div
-                style="width:80%; background-color:rgba(0,0,0,.5); padding:5px 5px 5px 5px; border-radius:30px; box-shadow: 2px 2px 10px gray;">
+                style="width:80%; background-color:rgba(0,0,0,.5); padding:5px 5px 5px 5px; border-radius:30px; box-shadow: 2px 2px 10px grey;">
                 <h1 style=" color:white;">All Customers</h1>
             </div>
             <?php
@@ -98,7 +98,7 @@
                 <thead>
                     <tr>
                         <th scope="col">Sender</th>
-                        <th scope="col">Reciever</th>
+                        <th scope="col">Receiver</th>
                         <th scope="col">Amount</th>
                         <th scope="col">Status</th>
                     </tr>

@@ -20,7 +20,7 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 </head>
 
-<body style="background-color:#212529;">
+<body style="background-color:#FFC0CB;">
     <?php include 'spin.php'; ?>
     <style>
         .nav-link:hover {
@@ -76,9 +76,9 @@
             <br><br>
             <img src="statics/1657373674672.jpg" alt="" style="width:20%; box-shadow:2px 2px 15px black;">
             <br><br>
-            <p style="color:white;">This website is created by</p>
-            <h1 style="color:white; text-shadow:2px 2px 2px gray;">Samuel Solomon</h1>
-            <p style="color:gray;"><b>Intern at Sparks Foundation <br> Prince DR K Vasudevan College of Engineering and Technology, Ponmar, Chennai</b></p>
+            <p style="color:Green;">This website is created by</p>
+            <h1 style="color:Indigo; text-shadow:2px 2px 2px yellow;">Samuel Solomon</h1>
+            <p style="color:purple;"><b>Intern at Sparks Foundation <br> Prince DR K Vasudevan College of Engineering and Technology, Ponmar, Chennai</b></p>
     </center>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"

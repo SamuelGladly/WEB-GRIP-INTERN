@@ -112,11 +112,11 @@
                         border-radius: 30px;
                         font-weight: bold;
                         background-color: lightyellow;
-                        color: yellow;
+                        color: green;
                     }
 
                     .mybtn:active {
-                        background-color: yellow;
+                        background-color: green;
                         color: lightyellow;
                     }
                 </style>
